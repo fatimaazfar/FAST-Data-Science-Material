@@ -1,0 +1,78 @@
+//Term* tt = this->head->next;//temp for loop
+		//Term* tt2 = this->head->next;//temp for 2nd check loop
+		//Term* to = o.head->next;//temp for loop
+		//Term* to2 = o.head->next;//temp for 2nd check loop
+		//Term* tp = p.head->next;//temp for loop
+		//int j = 0;
+		//int rescof = 0;
+		//for (int i = 0;tt != nullptr;i++)
+		//{
+		//	int count = 0;
+		//	rescof = 0;
+		//	for (j = 0;to != nullptr;j++)
+		//	{
+		//		if (tt->getexp() == to->getexp())//if the exponents are same then add
+		//		{
+		//			/*these checks are here because there might be many terms of same exponent
+		//			so we have to add them all to just one new term in the new polynomial*/
+		//			if (count >= 1)//if condition was true for more than 1 term then only add the new value not the previous
+		//			{
+		//				rescof += to->getcoef();
+		//			}
+		//			else//if the loop didnt run the second time for one it means we have only 1 value to add and we can simply do it like this
+		//			{
+		//				rescof += tt->getcoef() + to->getcoef();
+		//			}
+		//			tp->setcoef(rescof);//after the coef is calculated we will set its value to the resulting poly
+		//			tp->setexp(tt->getexp());//set the exponent
+		//			count++;//terms to be added on same exponent
+		//			sizep++;//counting the size
+		//		}
+		//		to = to->getnext();//move to next value
+		//	}
+		//	if (i < size - 1)//if the list hasn't ended
+		//	{
+		//		tp->setnext(new Term);
+		//		tp = tp->getnext();
+		//	}
+		//	else if (i == this->size - 1 && j == o.size - 1)//if both the lists have ended set tail and set next to null
+		//	{
+		//		tp->setnext(nullptr);
+		//	}
+		//	if (count == 0)//in case there was an element in first poly which didn't match any element in 2nd poly then store it here
+		//	{
+		//		tp->setcoef(tt->getcoef());
+		//		tp->setexp(tt->getexp());
+		//		tp->setnext(new Term);
+		//		tp = tp->getnext();
+		//		sizep++;
+		//	}
+		//	tt = tt->getnext();//move to next
+		//	to = o.head->next;//set the second polynomial term again to head
+		//}
+		////these loops are made to check in reverse in case any element was left in 2nd poly
+		//while (to2 != nullptr)
+		//{
+		//	int count2 = 0;
+		//	while (tt2 != nullptr)
+		//	{
+		//		if (tt2->getexp() == to2->getexp())
+		//		{
+		//			count2++;
+		//		}
+		//		tt2 = tt2->getnext();
+		//	}
+		//	if (count2 == 0)//in case there was an element in 2nd poly which didn't match any element in 1st poly then store it here
+		//	{
+		//		tp->setnext(new Term);
+		//		tp = tp->getnext();
+		//		tp->setcoef(to2->getcoef());
+		//		tp->setexp(to2->getexp());
+		//		tp->setnext(nullptr);
+		//		tp = tp->getnext();
+		//		sizep++;
+		//	}
+		//	to2 = to2->getnext();
+		//	tt2 = this->head->next;
+		//}
+		//p.setsize(sizep + 1);//set the size of new polynomial

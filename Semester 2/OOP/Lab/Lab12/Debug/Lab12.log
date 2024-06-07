@@ -1,0 +1,16 @@
+﻿  Lab12_20L1027.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(38,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(38,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(73,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(73,42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(108,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(115,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(142,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(147,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(172,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(172,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(227,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(227,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(233,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Lab12_20L1027.cpp(233,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab12.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab12\Debug\Lab12.exe

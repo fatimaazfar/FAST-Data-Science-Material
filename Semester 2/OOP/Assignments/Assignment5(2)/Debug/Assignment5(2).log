@@ -1,0 +1,4 @@
+﻿  matrix.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(2)\matrix.cpp(233,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(2)\matrix.cpp(546,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment5(2).vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(2)\Debug\Assignment5(2).exe

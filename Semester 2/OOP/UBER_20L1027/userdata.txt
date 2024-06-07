@@ -1,0 +1,7 @@
+p,shahmeer,10-10-2000,shahmeer@hotmail.com,03335854544
+d,meher,9-3-1990,meher@gmail.com,03259299689
+p,ibrahim,11-11-2010, ibrahim@hotmail.com,03335575744
+p,mustafa,15-5-1992, mustafa@hotmail.com,034757545544
+d,ali,18-5-1970, ali@gmail.com,036255754050
+p,sana,10-10-2000, sana@hotmail.com,039057875005
+d,noor,9-3-1990, noor@gmail.com,0387057554

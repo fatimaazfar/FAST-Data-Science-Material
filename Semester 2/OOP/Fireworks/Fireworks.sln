@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fireworks", "Fireworks.vcxproj", "{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Debug|x64.ActiveCfg = Debug|x64
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Debug|x64.Build.0 = Debug|x64
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Debug|x86.Build.0 = Debug|Win32
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Release|x64.ActiveCfg = Release|x64
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Release|x64.Build.0 = Release|x64
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Release|x86.ActiveCfg = Release|Win32
+		{5CA0E130-A742-40AD-A0D5-C74C5D0E686D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5098946D-003C-43CE-8BCD-83F741F23660}
+	EndGlobalSection
+EndGlobal

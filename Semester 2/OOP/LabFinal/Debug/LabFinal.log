@@ -1,0 +1,5 @@
+﻿  Q1_20L1027.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\LabFinal\Q1_20L1027.cpp(120): warning C4172: returning address of local variable or temporary: obj
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\LabFinal\Q1_20L1027.cpp(166): warning C4172: returning address of local variable or temporary: obj
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\LabFinal\Q1_20L1027.cpp(181): warning C4172: returning address of local variable or temporary: obj
+  LabFinal.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\LabFinal\Debug\LabFinal.exe

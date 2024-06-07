@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(a)\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(a)\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Assignment5(a).vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Assignments\Assignment5(a)\Debug\Assignment5(a).exe

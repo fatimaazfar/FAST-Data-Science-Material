@@ -1,0 +1,10 @@
+﻿  Program1.cpp
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(5,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(6,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(28,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(34,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(35,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(36,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(37,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nadeem\Desktop\AimanProgram\Program1.cpp(37,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AimanProgram.vcxproj -> C:\Users\Nadeem\desktop\AimanProgram\Debug\AimanProgram.exe

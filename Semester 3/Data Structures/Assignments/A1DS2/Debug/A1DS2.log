@@ -1,0 +1,6 @@
+﻿  DSA1_20L1027.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Assignments\A1DS2\DSA1_20L1027.cpp(207,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Assignments\A1DS2\DSA1_20L1027.cpp(36): warning C4715: 'Term::getcoef': not all control paths return a value
+C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Assignments\A1DS2\DSA1_20L1027.cpp(31): warning C4715: 'Term::getexp': not all control paths return a value
+C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Assignments\A1DS2\DSA1_20L1027.cpp(26): warning C4715: 'Term::getnext': not all control paths return a value
+  A1DS2.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Assignments\A1DS2\Debug\A1DS2.exe

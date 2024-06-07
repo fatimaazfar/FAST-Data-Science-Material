@@ -1,0 +1,3 @@
+﻿  StackList.cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Stacks\StackList.cpp(243): warning C4715: 'isBalanced': not all control paths return a value
+  Stacks.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 3\Data Structures\Stacks\Debug\Stacks.exe

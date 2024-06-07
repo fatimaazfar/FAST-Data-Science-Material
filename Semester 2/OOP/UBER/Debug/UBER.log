@@ -1,0 +1,3 @@
+﻿  user.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\UBER\Debug\UBER.exe for writing
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(997,5): error MSB6006: "link.exe" exited with code 1168.

@@ -1,0 +1,5 @@
+﻿  Lab10(20L-1027).cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab10\Lab10(20L-1027).cpp(151,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab10\Lab10(20L-1027).cpp(155,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab10\Lab10(20L-1027).cpp(156,67): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab10.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Lab\Lab10\Debug\Lab10.exe

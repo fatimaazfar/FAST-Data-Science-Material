@@ -1,0 +1,4 @@
+﻿  fireworks (2).cpp
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Fireworks\fireworks (2).cpp(7,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Fireworks\fireworks (2).cpp(7,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Fireworks.vcxproj -> C:\Users\Nadeem\Desktop\BSDS\Semester 2\OOP\Fireworks\Debug\Fireworks.exe
