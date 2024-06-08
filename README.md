@@ -13,7 +13,7 @@ The repository is organized into directories by semester, each containing subdir
 - **Lab Works:** Practical lab sessions and exercises.
 - **Readings:** Additional readings and reference materials.
 
-### [Semester 1](Semester-1) 📕
+### [Semester 1](./Semester%201) 📕
 - **CL117 Intro to Info. and Comm. Technologies**
 - **CL118 Programming Fundamentals - Lab**
 - **CS118 Programming Fundamentals**
@@ -23,7 +23,7 @@ The repository is organized into directories by semester, each containing subdir
 - **SS111 Islamic and Religious Studies**
 - **SS150 English Composition and Comprehension**
 
-### [Semester 2](Semester-2) 📗 
+### [Semester 2](./Semester%202) 📗 
 - **CL217 Object Oriented Programming - Lab**
 - **CS217 Object Oriented Programming**
 - **EE227 Digital Logic Design**
@@ -33,7 +33,7 @@ The repository is organized into directories by semester, each containing subdir
 - **SS113 Pakistan Studies**
 - **SS152 Communication & Presentation Skills**
 
-### [Semester 3](Semester-3) 📘 
+### [Semester 3](./Semester%203) 📘 
 - **CL2001 Data Structures - Lab**
 - **CS1005 Discrete Structures**
 - **CS2001 Data Structures**
@@ -42,7 +42,7 @@ The repository is organized into directories by semester, each containing subdir
 - **EL2003 Computer Organization and Assembly Language- Lab**
 - **MT2005 Probability and Statistics**
 
-### [Semester 4](./Semester-4) 📙 
+### [Semester 4](./Semester%204) 📙 
 - **CL2005 Database Systems - Lab**
 - **CS2004 Fundamentals of Software Engineering**
 - **CS2005 Database Systems**
@@ -51,7 +51,7 @@ The repository is organized into directories by semester, each containing subdir
 - **DS2004 Fundamental of Big Data Analytics**
 - **MT1004 Linear Algebra**
 
-### [Semester 5](./Semester-5) 📒 
+### [Semester 5](./Semester%205) 📒 
 - **CL2006 Operating Systems - Lab**
 - **CS2006 Operating Systems**
 - **CS2009 Design and Analysis of Algorithms**
@@ -60,7 +60,7 @@ The repository is organized into directories by semester, each containing subdir
 - **DS3003 Data Warehousing and Business Intelligence**
 - **SS2007 Technical and Business Writing**
 
-### [Semester 6](./Semester-6) 📓 
+### [Semester 6](./Semester%206) 📓 
 - **AI2002 Artificial Intelligence**
 - **AL2002 Artificial Intelligence - Lab**
 - **CS3006 Parallel and Distributed Computing**
@@ -69,7 +69,7 @@ The repository is organized into directories by semester, each containing subdir
 - **DS3002 Data Mining**
 - **MG4011 Entrepreneurship**
 
-### [Semester 7](./Semester-7) 📔 
+### [Semester 7](./Semester%207) 📔 
 - **CL3001 Computer Networks - Lab**
 - **CS3001 Computer Networks**
 - **CS3002 Information Security**
@@ -77,7 +77,7 @@ The repository is organized into directories by semester, each containing subdir
 - **CS4049 Blockchain and Cryptocurrency**
 - **DS4091 Final Year Project – I**
 
-### [Semester 8](./Semester-8) 📕
+### [Semester 8](./Semester%208) 📕
 - **CS4032 Web Programming**
 - **CS4059 Fundamentals of Computer Vision**
 - **CS4063 Natural Language Processing**
