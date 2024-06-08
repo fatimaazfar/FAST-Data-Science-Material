@@ -13,6 +13,77 @@ The repository is organized into directories by semester, each containing subdir
 - **Lab Works:** Practical lab sessions and exercises.
 - **Readings:** Additional readings and reference materials.
 
+### [Semester 1](./Semester-1) 📕
+- **CL117 Intro to Info. and Comm. Technologies**
+- **CL118 Programming Fundamentals - Lab**
+- **CS118 Programming Fundamentals**
+- **EE117 Applied Physics**
+- **MT119 Calculus and Analytical Geometry**
+- **SL150 English Composition and Comprehension - Lab**
+- **SS111 Islamic and Religious Studies**
+- **SS150 English Composition and Comprehension**
+
+### [Semester 2](./Semester-2) 📗 
+- **CL217 Object Oriented Programming - Lab**
+- **CS217 Object Oriented Programming**
+- **EE227 Digital Logic Design**
+- **EL227 Digital Logic Design - Lab**
+- **MT224 Differential Equations (Cal II)**
+- **SL152 Communication & Presentation Skills - Lab**
+- **SS113 Pakistan Studies**
+- **SS152 Communication & Presentation Skills**
+
+### [Semester 3](./Semester-3) 📘 
+- **CL2001 Data Structures - Lab**
+- **CS1005 Discrete Structures**
+- **CS2001 Data Structures**
+- **DS2001 Introduction to Data Science**
+- **EE2003 Computer Organization and Assembly Language**
+- **EL2003 Computer Organization and Assembly Language- Lab**
+- **MT2005 Probability and Statistics**
+
+### [Semester 4](./Semester-4) 📙 
+- **CL2005 Database Systems - Lab**
+- **CS2004 Fundamentals of Software Engineering**
+- **CS2005 Database Systems**
+- **DL2004 Fundamental of Big Data Analytics - Lab**
+- **DS2003 Advanced Statistics**
+- **DS2004 Fundamental of Big Data Analytics**
+- **MT1004 Linear Algebra**
+
+### [Semester 5](./Semester-5) 📒 
+- **CL2006 Operating Systems - Lab**
+- **CS2006 Operating Systems**
+- **CS2009 Design and Analysis of Algorithms**
+- **DL3001 Data Analysis and Visualization - Lab**
+- **DS3001 Data Analysis and Visualization**
+- **DS3003 Data Warehousing and Business Intelligence**
+- **SS2007 Technical and Business Writing**
+
+### [Semester 6](./Semester-6) 📓 
+- **AI2002 Artificial Intelligence**
+- **AL2002 Artificial Intelligence - Lab**
+- **CS3006 Parallel and Distributed Computing**
+- **CS4051 Information Retrieval**
+- **DL3002 Data Mining - Lab**
+- **DS3002 Data Mining**
+- **MG4011 Entrepreneurship**
+
+### [Semester 7](./Semester-7) 📔 
+- **CL3001 Computer Networks - Lab**
+- **CS3001 Computer Networks**
+- **CS3002 Information Security**
+- **CS4001 Professional Practices in IT**
+- **CS4049 Blockchain and Cryptocurrency**
+- **DS4091 Final Year Project – I**
+
+### [Semester 8](./Semester-8) 📕
+- **CS4032 Web Programming**
+- **CS4059 Fundamentals of Computer Vision**
+- **CS4063 Natural Language Processing**
+- **DS4092 Final Year Project – II**
+- **SS2036 Modern Politics and Government**
+
 ## How to Use This Repository 🛠️
 
 1. **Navigate by Semester:** Start by selecting the semester you are currently enrolled in or interested in. Each semester folder contains all relevant materials for the courses offered in that semester.
