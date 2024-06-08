@@ -1,0 +1,53 @@
+print ("This program prints the words in a string that start with the letter 's'.")
+str = input("Enter a sentence : ")
+strlist = str.split()
+size = len(strlist)
+for x in strlist:
+    if x[0] == 's':
+        print (x)
+
+print ("This code block prints numbers from 1 to 10 using range")
+for n in range(11):
+    print(n)
+
+print("This code block makes a list of numbers divisible by 3 from 1 to 50")
+byThree = [0]
+for n in range(1,51):
+    if n%3 == 0:
+        byThree.append(n)
+print(byThree)
+
+print("This code block detects the number of upper and lower case letters in a string")
+str = input("Enter a sentence : ")
+upper = 0
+lower = 0
+for n in str:
+    if n.isupper() == True:
+        upper += 1
+    else:
+        lower += 1
+print("Upper : ",upper,"\n Lower : ",lower)
+
+print("This code block makes a list of the first letters of each word in string")
+str = input("Enter a sentence : ")
+letters = []
+strlist = str.split()
+for x in strlist:
+    letters.append(x[0])
+print(letters)
+
+print("This code block reverses strings")
+str = input("Enter a word/sentence : ")
+front = str.split()
+back = [letter[::-1] for letter in front]
+reverse = " ".join(back)
+print(reverse)
+
+#d = {&#39;simple_key&#39;:&#39;hello&#39;}
+#d = {&#39;k1&#39;:{&#39;k2&#39;:&#39;hello&#39;}}
+#d = {&#39;k1&#39;:[{&#39;nest_key&#39;:[&#39;this is deep&#39;,[&#39;hello&#39;]]}]}
+print("This code block finds specific word from strings")
+dictionary = input("Enter a dictionary (a statement with random words/symbols) : ")
+word = input("Enter the word to be searched : ")
+start = dictionary.index(word)
+print("The word ",word," is starting from the index ",start," in the dictionary.")

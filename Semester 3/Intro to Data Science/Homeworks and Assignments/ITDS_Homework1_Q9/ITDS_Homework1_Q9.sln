@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITDS_Homework1_Q9", "ITDS_Homework1_Q9.pyproj", "{6CC58453-5287-4F6F-978C-F56BF0C9F3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC58453-5287-4F6F-978C-F56BF0C9F3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC58453-5287-4F6F-978C-F56BF0C9F3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E31A29-144E-42A5-8214-9B5372866EEB}
+	EndGlobalSection
+EndGlobal

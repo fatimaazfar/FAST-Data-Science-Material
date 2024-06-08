@@ -1,0 +1,124 @@
+print ("This code block prints the words in a string that start with the letter 's'.")
+str = input("Enter a sentence : ")
+strlist = str.split()
+for x in strlist:
+    if x[0] == 's':
+        print (x)
+
+#------------------------------------------
+
+print ("This code block prints numbers from 1 to 10 using range")
+for n in range(11):
+    print(n)
+
+
+#------------------------------------------
+
+print("This code block makes a list of numbers divisible by 3 from 1 to 50")
+byThree = [0]
+for n in range(1,51):
+    if n%3 == 0:
+        byThree.append(n)
+print(byThree)
+
+
+#------------------------------------------
+
+print("This code block detects the number of upper and lower case letters in a string")
+str = input("Enter a sentence : ")
+upper = 0
+lower = 0
+for n in str:
+    if n.isupper() == True:
+        upper += 1
+    else:
+        lower += 1
+print("Upper : ",upper,"\n Lower : ",lower)
+
+
+#------------------------------------------
+
+print("This code block makes a list of the first letters of each word in string")
+str = input("Enter a sentence : ")
+letters = []
+strlist = str.split()
+for x in strlist:
+    letters.append(x[0])
+print(letters)
+
+
+#------------------------------------------
+
+print("This code block reverses strings")
+str = input("Enter a word/sentence : ")
+front = str.split()
+back = [letter[::-1] for letter in front]
+reverse = " ".join(back)
+print(reverse)
+
+
+#------------------------------------------
+
+print("This code block finds specific word from dictionaries")
+d = {'simple_key':'hello'}
+d1 = {'k1':{'k2':'hello'}}
+d2 = {'k1':[{'nest_key':['this is deep',['hello']]}]}
+word = input("Enter the word that you want to search : ")
+for word in d2.keys():
+        print(d2[word])
+
+#------------------------------------------
+
+print("This code block generates squares of numbers starting from 0 to N")
+def gensquares(N):
+    lis = []
+    for x in range(N):
+        lis.append(x**2)
+    return lis
+
+for x in gensquares(10):
+    print(x)
+
+#------------------------------------------
+
+print("This code block has a class for adding,subtracting,dividing,multiplying two tuples.")
+class tuples:
+    def _init_ (self, tup1, tup2):
+        self.tup1 = tup1
+        self.tup2 = tup2
+    def add(self):
+        return self.tup1 + self.tup2
+    def sub(self):
+        return tuple(map(lambda i, j: i - j, self.tup1, self.tup2))
+    def mul(self):
+        return tuple(map(lambda i, j: i * j, self.tup1, self.tup2))
+    def div(self):
+        return tuple(map(lambda i, j: i / j, self.tup1, self.tup2))
+    def power(self):
+        return tuple(ele1 ** ele2 for ele1, ele2 in zip(self.tup1, self.tup2))
+    def getTuple1(self):
+        return self.tup1
+    def getTuple2(self):
+        return self.tup2
+    def setTuple1(self,tup):
+        self.tup1 = tup
+    def setTuple2(self,tup):
+        self.tup2 = tup
+        
+t = (1,2,3,4)
+a = b = tuples()
+a.setTuple1(t)
+b.setTuple2(t)       
+choice = input("Enter 'a' if you want to do the addition, 's' for subtraction, 'm' for multiplication, 'd' for Division and 'p' for power")
+if choice == 'a':
+    print(a.add())
+elif choice == 'm':
+    print(a.mul())
+elif choice == 's':
+    print(a.sub())
+elif choice == 'd':
+    print(a.div())
+elif choice == 'p':
+    print(a.power())
+else:
+    print("Invalid input.")
