@@ -13,7 +13,7 @@ The repository is organized into directories by semester, each containing subdir
 - **Lab Works:** Practical lab sessions and exercises.
 - **Readings:** Additional readings and reference materials.
 
-### [Semester 1](./Semester-1) 📕
+### [Semester 1](Semester-1) 📕
 - **CL117 Intro to Info. and Comm. Technologies**
 - **CL118 Programming Fundamentals - Lab**
 - **CS118 Programming Fundamentals**
@@ -23,7 +23,7 @@ The repository is organized into directories by semester, each containing subdir
 - **SS111 Islamic and Religious Studies**
 - **SS150 English Composition and Comprehension**
 
-### [Semester 2](./Semester-2) 📗 
+### [Semester 2](Semester-2) 📗 
 - **CL217 Object Oriented Programming - Lab**
 - **CS217 Object Oriented Programming**
 - **EE227 Digital Logic Design**
@@ -33,7 +33,7 @@ The repository is organized into directories by semester, each containing subdir
 - **SS113 Pakistan Studies**
 - **SS152 Communication & Presentation Skills**
 
-### [Semester 3](./Semester-3) 📘 
+### [Semester 3](Semester-3) 📘 
 - **CL2001 Data Structures - Lab**
 - **CS1005 Discrete Structures**
 - **CS2001 Data Structures**
