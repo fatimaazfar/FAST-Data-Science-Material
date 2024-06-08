@@ -1,0 +1,51 @@
+pwd = present working directory
+
+ls = lists all files and folders of the directoy
+
+touch = used to name a file
+
+rwx = read write execution
+
+rw-   only read and write
+r--   only read
+
+cd = change directory
+
+mkdir = make new directory
+
+nano = opens editor mode of a file
+
+Ctrl+O = file is saved
+
+Ctrl+X = exit the editor mode
+
+cat = display content of file on terminal
+
+cat file_name | head -3 = displays first 3 lines of the content of the file
+
+cat file_name file_name(where you want to copy data)
+
+cp file_name ./directory_name/ = copy a file at a given directory
+
+../ = previous directory
+./ = current directory
+
+mv = moves the content of a file to another file and deletes the original file
+
+rm = remove/delete a file
+
+rm -r = remove/delete a directory
+
+whoami = shows the name of the current user
+
+who = shows all the users
+
+echo "anything" = displays what ever you write in apostrophes on terminal
+
+chmod _ _ _ file_name = change mode (give permissions to users) first _ shows current user permissions, 2nd _ shows group users permissions, 3rd represents any user permissions
+read = 4
+write = 2
+execute = 1
+e.g if you write chmod 777 abc.txt = all users will get read write and execution permissions
+
+to apply map reduce to a file: cat word_count_data.txt | python Mapper.py | sort | python .\Reducer.py

@@ -1,0 +1,12 @@
+Relational algebra 			(done)
+SQL		   			(done)
+Functional dependies			(done)
+Lossless Joins				(done)
+Dependency preserved decomposition	(done)
+Normalization				(done)
+ER Diagrams				(done)
+EER Diagrams				(done)
+ER To relational mapping		(done)
+EER to relational mapping		(done)
+
+Q:7,8,9,10 from assignment 4		(done)
