@@ -1,0 +1,177 @@
+/* General reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    line-height: 1.6;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+/* Header and page title styles */
+.page-title h1 {
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    font-size: 2em;
+}
+
+/* Navigation bar styles */
+.top-navigation {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.nav-list li {
+    padding: 10px;
+}
+
+.nav-list a {
+    padding: 10px 15px;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-list a:hover,
+.nav-list a:focus {
+    background-color: #f0f0f0;
+}
+
+/* Hero section styles */
+.hero-section h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 20px 0;
+}
+
+.hero-section p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.search-container {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.search-container input[type="text"],
+.search-container button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.search-container button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Category navigation styles */
+.category-navigation {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.section-title {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.categories-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.category {
+    padding: 10px 20px;
+    background-color: #eff0f1;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.category:hover {
+    background-color: #dde;
+}
+
+/* Featured freelancers styles */
+.featured-freelancers {
+    background-color: #fff;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.freelancers-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.freelancer-profile {
+    width: 300px; /* Fixed width for uniform cards */
+    margin: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.freelancer-profile img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.profile-details h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.profile-details p {
+    font-size: 1em;
+    color: #666;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .nav-list {
+        flex-direction: column;
+    }
+
+    .categories-list,
+    .freelancers-list {
+        flex-direction: column;
+    }
+
+    .freelancer-profile {
+        width: auto; /* Full width on small screens */
+    }
+}
