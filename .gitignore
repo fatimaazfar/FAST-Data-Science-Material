@@ -1,0 +1,35 @@
+# Exclude Cloudera virtual machine files
+Semester 4/BigData/Hadoop Stuff/Hadoop Setup/
+
+# Exclude IS Assignment file
+Semester 7/IS/Assignments/Assignment 2/System Setup/remnux-6.0-ova-public.ova
+
+# Exclude AI Lab files
+Semester 6/Artificial Intelligence/AI_Lab_Mid_mawaad/AI_Lab_Mid_mawaad.zip
+Semester 6/Artificial Intelligence/archive.zip
+
+# Exclude IS Assignment files
+Semester 7/IS/Assignments/Assignment 2/System Setup/Malware Analysis 2.ova
+
+# Exclude CV AlexNet and VGG model files
+Semester 8/CV/AlexNet/tiny-imagenet-200.zip
+Semester 8/CV/VGG/best_model.h5
+Semester 8/CV/VGG/vgg16_best_model.h5
+
+# Exclude NLP Assignment files
+Semester 8/NLP/Assignment 3/glove.42B.300d.txt
+Semester 8/NLP/Assignment 3/glove.42B.300d.zip
+
+# Exclude Lecture files
+Semester 8/NLP/Lectures/lecture 22-23 How LSTM solve vanishing gradient problem Part 4.mp4
+Semester 8/NLP/Lectures/lecture 22-23 LSTM Part 3.mp4
+
+# Ignore Python virtual environments
+env/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all hidden directories (like .ipynb_checkpoints)
+.*/
