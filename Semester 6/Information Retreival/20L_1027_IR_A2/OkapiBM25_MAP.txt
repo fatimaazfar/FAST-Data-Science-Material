@@ -1,0 +1,10 @@
+Query 1: 0.0
+Query 2: 0.0
+Query 3: 0.0
+Query 4: 0.0
+Query 5: 0.0
+Query 6: 0.0
+Query 7: 0.0
+Query 8: 0.0
+Query 9: 1.3474546581507531e-05
+Query 10: 2.0415979668950806e-07

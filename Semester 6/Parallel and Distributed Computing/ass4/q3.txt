@@ -1,0 +1,25 @@
+Step by step breakdown of the program's work flow:
+
+(1) Initializes MPI environment and retrieves the rank and size of the processes.
+(2) Initializes an integer array "data" with 10 elements and values {7, 4, 8, 3, 1, 7, 3, 6, 0, 9}.
+(3) If rank is 0, initializes the "data" array with values {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.
+(4) Uses MPI_Scatter to distribute each element of "data" array to each process.
+(5) Computes the sum of each process's data element and reduces it to a single value using MPI_Reduce with MPI_SUM operation.
+(6) Uses MPI_Scan to compute the scan operation (prefix sum) of the sum values among all processes.
+(7) Uses MPI_Bcast to broadcast the scan results from the last process to all other processes.
+(8) If rank is 0, prints the original "data" array size, sum, and the scan results for each process.
+
+Expected output:
+
+Data size: 10
+Sum: 45
+Scan result at rank 0:0
+Scan result at rank 1:0
+Scan result at rank 2:1
+Scan result at rank 3:3
+Scan result at rank 4:6
+Scan result at rank 5:10
+Scan result at rank 6:15
+Scan result at rank 7:21
+Scan result at rank 8:28
+Scan result at rank 9:36
